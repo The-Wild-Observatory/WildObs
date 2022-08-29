@@ -1,3 +1,6 @@
+#Needs another variable
+haha<-50
+
 # Code from Kery and Royle (2015)
 # Choose sample sizes and prepare obs. data array y
 set.seed(1)                   # So we all get same data set
