@@ -1,3 +1,8 @@
+#this isnt great
+new_variable<-5
+#fixed
+
+
 # Code from Kery and Royle (2015)
 # Choose sample sizes and prepare obs. data array y
 set.seed(1)                   # So we all get same data set
